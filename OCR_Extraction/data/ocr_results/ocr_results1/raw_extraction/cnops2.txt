@@ -1,0 +1,14 @@
+O Uniquement les dossiers payés des derniers 6 mois sont affichés.
+
+Nb.Dossier(s) Date de réception Date Paiement Mode Paiement  Bénéficiaire Frais engagés AMO Mutuelle Total
+
+| - 17/02/2028 Vrement . 220000 1#96,00 27800 227400 O
+soxros 29/10/2024 Payé en: 113 jours | 280000 189609 37800 227400
+
+IE 1 - 07/02/2025 Virement » 200,00 12800 2400 15200
+
+8 1 . 27/11/2024 Virement . 68170 31357 5142 3679
+
+iE 1 . 12/11/2024 Virement x 47100 24000 3500 27500 IN
+
+Application Moblle : SMART CNOPS - Assuré : B> Télécharger RATÉ
