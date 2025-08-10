@@ -5,7 +5,7 @@ This chatbot uses Retrieval-Augmented Generation (RAG) to provide accurate and c
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/fahd-dvl/OCR_RAG_CHATBOT.git
 cd RAG_OCR_Assistant
 ```
 
