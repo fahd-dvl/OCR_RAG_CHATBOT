@@ -1,0 +1,3 @@
+python-docx
+opencv-python
+pytesseract

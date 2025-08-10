@@ -1,0 +1,16 @@
+PAYE
+
+Uniquement les dossiers payés des derniers 6 mois sont affichés.
+
+Nb.Dossier(s)     Date de réception     Date Paiement     Mode Paiement     Bénéficiaire     Frais engagés     AMO     Mutuelle     Total
+
+1                 -                     17/02/2028        Virement          -                2800.00           1896.00 378.00       2274.00 
+906377038         29/10/2024            Payé en: 113 jours                                   2800.00           18960.0 378.00       2274.00
+
+1                 -                     07/02/2025         Virement         -                200.00            128.00  24.00        152.00
+
+1                 -                     27/11/2024         Virement         -                681.70            313.57  54.42        367.99
+
+1                 -                     12/11/2024         Virement         -                471.00            240.00  35.00        275.00 
+
+Application Moblle : SMART CNOPS - Assuré : > Télécharger 
