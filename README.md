@@ -32,15 +32,15 @@ ollama run llama3
 
 ## Running The Application
 
-   1.Make sure Ollama is running with the llama3 model
+   1. Make sure Ollama is running with the llama3 model
 
-   2.Navigate to the Chatbot directory and start the Flask application:
+   2. Navigate to the Chatbot directory and start the Flask application:
    ```bash
    cd Chatbot
    python app.py
    ```
 
-   3.Open your web browser and navigate to:
+   3. Open your web browser and navigate to:
    ```bash
    http://localhost:5000
    ```
